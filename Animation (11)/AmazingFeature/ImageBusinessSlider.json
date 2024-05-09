@@ -1,0 +1,73 @@
+{
+	"ImageBusinessSlider" : 
+	{
+		"LV" : 
+		{
+			"filter" : 
+			{
+				"materialValue" : 
+				{
+					"7873504780669431594,15052584992586054314" : 
+					{
+						"filterHow" : 
+						{
+							"entityName" : "Pass0",
+							"maxValue" : 1.0,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 50.540000915527344
+			},
+			"intensity" : 
+			{
+				"materialValue" : 
+				{
+					"7873504780669431594,15052584992586054314" : 
+					{
+						"scale" : 
+						{
+							"entityName" : "Pass0",
+							"maxValue" : 0.75,
+							"minValue" : 1.0
+						}
+					}
+				},
+				"sliderIntensity" : 68.279998779296875
+			},
+			"luminance" : 
+			{
+				"materialValue" : 
+				{
+					"7873504780669431594,15052584992586054314" : 
+					{
+						"lightIns" : 
+						{
+							"entityName" : "Pass0",
+							"maxValue" : 2.0,
+							"minValue" : 1.0
+						}
+					}
+				},
+				"sliderIntensity" : 30.649999618530273
+			},
+			"range" : 
+			{
+				"materialValue" : 
+				{
+					"7873504780669431594,15052584992586054314" : 
+					{
+						"shakeMask" : 
+						{
+							"entityName" : "Pass0",
+							"maxValue" : 0.5,
+							"minValue" : 0.10000000149011612
+						}
+					}
+				},
+				"sliderIntensity" : 67.739997863769531
+			}
+		},
+		"retouch" : null
+	}
+}

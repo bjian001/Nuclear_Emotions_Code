@@ -1,0 +1,44 @@
+{
+	"ImageBusinessSlider" : 
+	{
+		"LV" : 
+		{
+			"blur" : 
+			{
+				"materialValue" : null,
+				"sliderIntensity" : 0.0
+			},
+			"color" : 
+			{
+				"materialValue" : 
+				{
+					"15440242619354027113,3530525389557167489" : 
+					{
+						"u_color" : 
+						{
+							"entityName" : "light",
+							"maxValue" : 1.0,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 0.0
+			},
+			"luminance" : 
+			{
+				"materialValue" : null,
+				"sliderIntensity" : 0.0
+			},
+			"speed" : 
+			{
+				"materialValue" : null,
+				"sliderIntensity" : 0.0
+			},
+			"vertical_shift" : 
+			{
+				"materialValue" : null,
+				"sliderIntensity" : 0.0
+			}
+		}
+	}
+}

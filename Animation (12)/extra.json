@@ -1,0 +1,26 @@
+{
+	"setting" : 
+	{
+		"effect_adjust_params" : 
+		[
+			{
+				"default" : 0.6,
+				"effect_key" : "effects_adjust_speed",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.6,
+				"effect_key" : "effects_adjust_intensity",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.3333,
+				"effect_key" : "effects_adjust_size",
+				"max" : 1.0,
+				"min" : 0.0
+			}
+		]
+	}
+}

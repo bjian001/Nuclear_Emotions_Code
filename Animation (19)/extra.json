@@ -1,0 +1,47 @@
+{
+    "setting": {
+        "effect_adjust_params": [{
+                "default": 0.42,
+                "effect_key": "effects_adjust_intensity",
+                "max": 1.0,
+                "min": 0.0
+            },
+            {
+                "default": 0.0,
+                "effect_key": "effects_adjust_color",
+                "max": 1.0,
+                "min": 0.0
+            },
+            {
+                "default": 0.16,
+                "effect_key": "effects_adjust_vertical_shift",
+                "max": 1.0,
+                "min": 0.0
+            },
+            {
+                "default": 0.49,
+                "effect_key": "effects_adjust_luminance",
+                "max": 1.0,
+                "min": 0.0
+            },
+            {
+                "default": 1.0,
+                "effect_key": "effects_adjust_blur",
+                "max": 1.0,
+                "min": 0.0
+            },
+            {
+                "default": 0.30,
+                "effect_key": "effects_adjust_speed",
+                "max": 1.0,
+                "min": 0.0
+            },
+            {
+                "default": 0.75,
+                "effect_key": "effects_adjust_range",
+                "max": 1.0,
+                "min": 0.0
+            }
+        ]
+    }
+}

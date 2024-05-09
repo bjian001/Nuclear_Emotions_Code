@@ -1,0 +1,18 @@
+{
+
+    "effect": {
+        "Link": [
+          
+            {
+                "path": "wave/",
+                "rtShare": true,
+                "type": "AmazingFeature",
+                "zorder": 8015
+            }
+        ],
+        "SubLink": null
+       
+    },
+    "name": "2022_06_13_15_2waveeae911ec82wa44acde48001122",
+    "version": "10.1.0"
+}

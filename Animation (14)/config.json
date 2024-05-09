@@ -1,0 +1,24 @@
+{
+	"ae_tool" : "AmazingEditor",
+	"bALG_BACH_CONFIG" : true,
+	"effect" : 
+	{
+		"Link" : 
+		[
+			{
+				"path" : "AmazingFeature/",
+				"type" : "AmazingFeature",
+				"zorder" : 8011
+			}
+		],
+		"model_names" : 
+		{
+			"script" : 
+			[
+				"js_cv_flowwarp"
+			]
+		}
+	},
+	"name" : "2023_0908_cmj_flowwarp",
+	"version" : "13.3.0"
+}

@@ -1,0 +1,159 @@
+[
+    {
+        "ClassName": "SeekModeScript",
+        "Super": "ScriptComponent",
+        "FilePath": "lua/SeekModeScript.lua",
+        "FileAbsPath": "/Users/bytedance/Downloads/\u8ff7\u5e7b\u6545\u969c\u4e2d\u73ed/Wheel/lua/SeekModeScript.lua",
+        "Properties": [
+            {
+                "VarName": "threshold",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "rotate",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "randomly",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "reverseSort",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "triggerType",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "sortType",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "affectType",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "outputType",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "featherStart",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "featherEnd",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "length",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "offset",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "offsetRandom",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "cycle",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "randomSeed",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "blockSize",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "blurSize",
+                "VarType": "Double",
+                "Comment": ""
+            },
+            {
+                "VarName": "testTime",
+                "VarType": "Double",
+                "Comment": "",
+                "AnnoItems": [
+                    {
+                        "ItemType": "UI",
+                        "Attributes": [
+                            {
+                                "AttrType": "Range",
+                                "RawValue": "",
+                                "Values": [
+                                    0.0,
+                                    3.0
+                                ]
+                            },
+                            {
+                                "AttrType": "Slider",
+                                "RawValue": "",
+                                "Values": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "Methods": [
+            {
+                "FuncName": "new",
+                "Params": [],
+                "Comment": ""
+            },
+            {
+                "FuncName": "constructor",
+                "Params": [],
+                "Comment": ""
+            },
+            {
+                "FuncName": "onUpdate",
+                "Params": [],
+                "Comment": ""
+            },
+            {
+                "FuncName": "onStart",
+                "Params": [],
+                "Comment": ""
+            },
+            {
+                "FuncName": "layout ",
+                "Params": [],
+                "Comment": ""
+            },
+            {
+                "FuncName": "seekToTime",
+                "Params": [],
+                "Comment": ""
+            },
+            {
+                "FuncName": "onEvent",
+                "Params": [],
+                "Comment": ""
+            }
+        ],
+        "Comment": "",
+        "ExportFiles": []
+    }
+]

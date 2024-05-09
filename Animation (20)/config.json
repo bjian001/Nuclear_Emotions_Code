@@ -1,0 +1,18 @@
+{
+	"ae_tool" : "AmazingEditor",
+	"bALG_BACH_CONFIG" : true,
+	"effect" : 
+	{
+		"Link" : 
+		[
+			{
+				"path" : "Wheel/",
+				"type" : "AmazingFeature",
+				"zorder" : 5011
+			}
+		],
+		"exclusiveScene" : []
+	},
+	"name" : "2021_04_14_16_32_48_832425b011ea978facde48001122",
+	"version" : "10.1.0"
+}

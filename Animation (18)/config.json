@@ -1,0 +1,20 @@
+{
+    "ae_tool": "AmazingEditor",
+    "bALG_BACH_CONFIG": true,
+    "effect": {
+        "Link": [
+            {
+                "path": "AmazingFeature_noise/",
+                "type": "AmazingFeature",
+                "zorder": 8011
+            },
+            {
+                "path": "AmazingFeature/",
+                "type": "AmazingFeature",
+                "zorder": 8012
+            }
+        ]
+    },
+    "name": "26f8b45a165311eea67f7c10c9c055a5",
+    "version": "13.3.0"
+}

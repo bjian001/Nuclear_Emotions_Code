@@ -1,0 +1,56 @@
+{
+	"ImageBusinessSlider" : 
+	{
+		"LV" : 
+		{
+			"color" : 
+			{
+				"materialValue" : 
+				{
+					"5640828070768785374,17151928269000676481" : 
+					{
+						"u_hueChange" : 
+						{
+							"entityName" : "result",
+							"maxValue" : 1.0,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 0.0
+			},
+			"intensity" : 
+			{
+				"materialValue" : 
+				{
+					"5640828070768785374,17151928269000676481" : 
+					{
+						"u_intensity" : 
+						{
+							"entityName" : "result",
+							"maxValue" : 1.0,
+							"minValue" : 0.0
+						}
+					}
+				},
+				"sliderIntensity" : 100.0
+			},
+			"speed" : 
+			{
+				"materialValue" : 
+				{
+					"5640828070768785374,17151928269000676481" : 
+					{
+						"u_speed" : 
+						{
+							"entityName" : "result",
+							"maxValue" : 2.0,
+							"minValue" : 0.5
+						}
+					}
+				},
+				"sliderIntensity" : 33.330001831054688
+			}
+		}
+	}
+}

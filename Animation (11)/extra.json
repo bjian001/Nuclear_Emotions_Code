@@ -1,0 +1,32 @@
+{
+	"setting" : 
+	{
+		"effect_adjust_params" : 
+		[
+			{
+				"default" : 0.8,
+				"effect_key" : "effects_adjust_luminance",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.9,
+				"effect_key" : "effects_adjust_intensity",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 1.0,
+				"effect_key" : "effects_adjust_filter",
+				"max" : 1.0,
+				"min" : 0.0
+			},
+			{
+				"default" : 0.7,
+				"effect_key" : "effects_adjust_range",
+				"max" : 1.0,
+				"min" : 0.0
+			}
+		]
+	}
+}
