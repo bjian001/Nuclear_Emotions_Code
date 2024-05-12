@@ -6,3 +6,12 @@ The code for these animations primarily uses Lua and GLSL. These are all the ani
 ## The website links for performance
 
 [Performance](https://vimeo.com/944220333?share=copy)
+
+[Animations](https://vimeo.com/945398313?share=copy)
+
+## Reference for Lua && Xshader
+
+[Lua](https://github.com/openresty/lua-cjson.git)
+
+[Xshader](https://github.com/lord-123/xshader.git)
+
